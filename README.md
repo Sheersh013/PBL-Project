@@ -1,4 +1,4 @@
-# PBL-Project
+# PBL-Project - SOC Automation Lab
 I. Introduction to Problem (What, Why, How)
 What:
 The field of cybersecurity faces increasingly complex and diverse threats, demanding constant innovation in security operations. Security Operations Centers (SOC) are the first line of defense in detecting and mitigating these threats. However, many smaller organizations or individuals interested in cybersecurity lack the resources to build a robust, scalable, and cost-effective SOC. To bridge this gap, the SOC Automation Lab project enables the creation of an automated SOC using open-source tools like Wazuh, The Hive, and Shuffle. This lab is designed to simulate real-world SOC workflows and automate security tasks, providing an immersive and practical environment for learning.
